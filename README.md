@@ -10,11 +10,7 @@ Um programa pensando na experiência do usuário ao buscar ajuda ou informaçõe
 De forma interativa, com uma linguagem natural e humanizada, a aposta do programa é na humanização do processo através do nosso mascote, o Panda.
 
 ### Desenvolvido por
-- https://github.com/arydsr
-- https://github.com/marcospaulo46
-- https://github.com/flantunes
-- https://github.com/renataintec
-- https://github.com/bbaldaia
+[![Badge](https://img.shields.io/badge/-Ary-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/arydsr)](https://github.com/arydsr) [![Linkedin Badge](https://img.shields.io/badge/-Marcos-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/marcospaulo46)](https://github.com/marcospaulo46) [![Instagram Badge](https://img.shields.io/badge/-Flávia-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/flantunes)](https://github.com/flantunes) [![Codepen Badge](https://img.shields.io/badge/-Renata-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=[https://github.com/renataintec))](https://github.com/renataintec) [![Instagram Badge](https://img.shields.io/badge/-Bruno-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://www.instagram.com/papodedev/)](https://github.com/bbaldaia)
 
 ### Usar
 Clone o repositório ou baixe e descompacte
